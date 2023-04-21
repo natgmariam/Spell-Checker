@@ -1,5 +1,4 @@
 /*
-Name: Natnael Gebremariam, 5002150850, Assignment 5
  Description: Program reads in a dictionary and finds 
                 misspelled words and offers suggestions using 
                 unordered has map
